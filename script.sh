@@ -1,6 +1,6 @@
 #!/bin/sh
 
-function hello {
+hello() {
     echo 'hello'
 }
 
